@@ -8,6 +8,10 @@
 export ZONE=
 ```
 ```
+
+
+
+
 gcloud services enable datacatalog.googleapis.com
 
 sleep 20
